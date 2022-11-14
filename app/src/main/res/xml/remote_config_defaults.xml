@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap xmlns:android="http://schemas.android.com/apk/res/android">
+    <entry>
+        <key>welcome_image</key>
+        <value>https://androidappz.co.in/images/myapp_rigthscreenlock.png</value>
+    </entry>
+
+</defaultsMap>
